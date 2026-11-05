@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-sales-and-crm-filament",
+  "capabilityKey": "planned:sap:sales-and-crm",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/sap-sales-and-crm-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/sap/nextjs/sales-and-crm.md",
+  "presentationPlan": "projects/sap/filament/sales-and-crm.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/sap-sales-and-crm-filament",
+  "description": "Sales and CRM Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capability1068edaedb3f\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "sap-sales-and-crm-filament"
+    }
+  }
+}
